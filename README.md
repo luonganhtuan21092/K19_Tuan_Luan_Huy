@@ -1,5 +1,5 @@
 <!--logo-->
-<img src="K19_Tuan_Luan_Huy\image\chandung.jpg" alt="logo" with="50px"
+<img src="test.svg" alt="logo" with="50px"
 <hr>
 <h1>CV ca nhan</h1>
 <h2>Thong tin</h2>
