@@ -1,5 +1,5 @@
 
-<img src="K19_Tuan_Luan_Huy/chandung.jpg" alt="logo" with="50px">
+<img src="K19_Tuan_Luan_Huy/image/test.svg" alt="logo" with="50px">
 
 <hr>
 <h1>CV CÁ NHÂN:</h1> 
